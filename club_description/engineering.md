@@ -1,0 +1,5 @@
+# Requesting Space
+### Describes our club as an advertisement for engineering departments
+*Written to ask for space in the CEIE*
+
+RSX is a student design team with a focus on robotics in space applications. Our primary project is to design and build a rover to complete a variety of tasks simulating what a Mars rover would do. This effort culminates in an annual competition in Utah with dozens of universities from around the world. To compete there, our team brings together a diverse skillset, including from machining to power electronics to artificial intelligence. Our club counts about 30 members, spanning first year to grad school, all committed to developing and improving our rover. However, to support this goal, we need a space to meet and work. Until now, we have used space at UTIAS in Professor Barfoot's lab, but starting in May, we will lose access due to renovations. We have secured temporary space in [i forget the name] at least until the CEIE opens, but will need a permanent home to continue to achieve our goals.
